@@ -1,0 +1,15 @@
+C:\Users\Jerry\source\repos\窗体助手\bin\Debug\窗体助手.exe.config
+C:\Users\Jerry\source\repos\窗体助手\bin\Debug\窗体助手.exe
+C:\Users\Jerry\source\repos\窗体助手\bin\Debug\窗体助手.pdb
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.csprojAssemblyReference.cache
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.Form1.resources
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.Properties.Resources.resources
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.exe
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.pdb
+C:\Users\Jerry\source\repos\窗体助手\bin\Debug\窗体助手.exe.manifest
+C:\Users\Jerry\source\repos\窗体助手\bin\Debug\窗体助手.application
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.exe.manifest
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.application
+C:\Users\Jerry\source\repos\窗体助手\obj\Debug\窗体助手.AboutBox1.resources

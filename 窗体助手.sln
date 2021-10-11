@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "窗体助手", "窗体助手.csproj", "{FD1D0E42-0829-4C3B-984C-67ADE554A3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1D0E42-0829-4C3B-984C-67ADE554A3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1D0E42-0829-4C3B-984C-67ADE554A3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1D0E42-0829-4C3B-984C-67ADE554A3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1D0E42-0829-4C3B-984C-67ADE554A3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC369D9-0CB2-456F-83F0-1EE247500245}
+	EndGlobalSection
+EndGlobal
